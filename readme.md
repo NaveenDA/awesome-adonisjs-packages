@@ -6,7 +6,9 @@
 
 ## Developer Tools
 -  [Adonis Commands](https://www.npmjs.com/package/adonis-commands) - Set of core commands.
--  [  Adonis Lodge](https://www.npmjs.com/package/adonis-lodge)  - Namespacing library for node/io js.
+-  [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge)  - Namespacing library for node/io js.
+
+-  [Adonis 4 Tools](https://marketplace.visualstudio.com/items?itemName=vinicioslc.adonis4-tools)  - VSCode Extension that help import type definitions (autocomplete/intelisense) to legacy 4.x projects.
 
 ## Testing & Debugging
 -  [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
